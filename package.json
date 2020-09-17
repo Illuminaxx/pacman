@@ -21,5 +21,7 @@
       "@babel/plugin-transform-runtime"
     ]
   },
-  "dependencies": {}
+  "dependencies": {
+    "netlify-plugin-image-optim": "^0.3.0"
+  }
 }
